@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A2D25B7F-6892-B085-EB39-7D9D6556DADB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BladeScript.cs">
+    <Files>
+      <File FileName="Temp/GeneratedFromGraph-BladeShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/BladeScript.cs" Line="22" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LightsaberDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BladeScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="43e28fda-367c-4b4f-9db2-5d4d1974addd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
